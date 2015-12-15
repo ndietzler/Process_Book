@@ -4,23 +4,7 @@
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
 
 body {
-  font-family: Lato, 'Helvetica Neue', Helvetica, sans-serif;
-  font-size: 16px;
-  font-weight: 300;
   background-color: #E9EAEE;
-}
-
-h1, h2, h3 {
-	font-family: Raleway, 'Helvetica Neue', Helvetica, sans-serif;
-}
-
-h2 {
-	color: #bc6026;
-}
-
-.header {
-  padding-top: 3em;
-  width: 100vw;
 }
 
 iframe {
@@ -41,27 +25,4 @@ div#footer.container {
   width: 100vw;
   background-color: #afb3c2;
   border-top-width: 3px;
-}
-
-@media screen and (min-width: 768px) {
-  body {
-    font-size: 20px;
-  }
-
-  h2 {
-    text-align: center;
-    padding-bottom: 1em;
-  }
-
-  .header {
-    color: black;
-    text-align: right;
-    padding-right: 60px;
-  }
-}
-
-@media screen and (min-width: 992px) {
-  .header h1 {
-    font-size: 4em;
-  }
 }
