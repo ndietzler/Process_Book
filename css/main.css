@@ -4,7 +4,8 @@
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
 
 body {
-  background-color: #E9EAEE;
+  /*background-color: #E9EAEE;*/
+  background-color: #f2f2f2;
 }
 
 iframe {
@@ -25,4 +26,8 @@ div#footer.container {
   width: 100vw;
   background-color: #afb3c2;
   border-top-width: 3px;
+}
+
+#footer div {
+  padding: 10px;
 }
