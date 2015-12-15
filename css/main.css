@@ -27,12 +27,12 @@ iframe {
   width: 100vw;
   margin-top: 2em;
   margin-bottom: 2em;
+  height: 100vh;
 }
 
 #footer .row div {
   text-align: left;
   font-size: 12px;
-  margin-top: 1em;
 }
 
 div#footer.container {
